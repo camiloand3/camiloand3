@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, this is Cam 👋!!
+
+- 🔭 I’m currently working on an integration Jira Service Management + Okta + AWS (IAM + VPCs)
+- 🌱 I’m currently learning Security in the cloud
+
+[![My Skills](https://skillicons.dev/icons?i=terraform,aws,azure,linux,git,docker)](https://skillicons.dev)
 
 <!--
 **camiloand3/camiloand3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
